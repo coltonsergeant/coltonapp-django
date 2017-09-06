@@ -25,7 +25,7 @@ SECRET_KEY = 'od+o$q$-2au738kuhqeiu_l555p3x20mu-9&8y5h@&6xdnm_p!'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1','csergeant.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1','coltonapp-django.herokuapp.com]
 
 
 # Application definition
